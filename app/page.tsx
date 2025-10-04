@@ -76,10 +76,10 @@ export default function Home() {
           <img src="./memes/6.png" alt="" />
           {/* <img className="w-full" src="./memes/7.jpeg" alt="" /> */}
           <div className="bg-[#000033] border-2 border-[#3366cc] rounded-md relative overflow-hidden">
-            <h2 className="text-sm bg-gradient-to-r from-[#000066] to-[#0033cc] p-3">NSDΞX — The People’s Nasdaq</h2>
+            <h2 className="text-sm bg-gradient-to-r from-[#000066] to-[#0033cc] p-3">CHINEX — The People’s Dragon Index</h2>
             <div className="p-3 text-xs">
               <p>
-                You were born into debt, raised on inflation, and priced out of the dream. NSDΞX is the counterspell.NSDΞX is a corrupted ticker in the Nasdaq mainframe.
+                You were born into debt, raised on inflation, and priced out of the dream. CHINEX is the counter-signal: ¥-rails for the many, not the few.
               </p>
             </div>
             <video controls>
@@ -120,7 +120,7 @@ export default function Home() {
             <div className="bg-[#000033] border-2 border-[#3366cc] rounded-md mt-2 py-1 overflow-hidden">
               <div className="animate-marquee whitespace-nowrap">
                 <span className="text-[#33ccff] mx-4">★彡 Welcome to my cyber realm! 彡★</span>
-                <span className="text-[#ff99cc] mx-4">★彡 Last updated: 06/10/2025 彡★</span>
+                <span className="text-[#ff99cc] mx-4">★彡 Last updated: 10/10/2025 彡★</span>
                 <span className="text-[#33ccff] mx-4">★彡 Best viewed in 800x600 彡★</span>
                 <span className="text-[#ff99cc] mx-4">★彡 Sign my guestbook! 彡★</span>
                 <span className="text-[#ff99cc] mx-4">FYWFZEqVSETeYi2MZKehJqBd5N1p688PZsUnq6Fspump</span>
@@ -209,11 +209,11 @@ export default function Home() {
                 </div>
                 <div className="mt-6 space-y-4">
                   <p className="text-[#99ccff]">
-                    You’ve just logged into a lost corner of the market. <br /> <br />
-                    NSDΞX isn’t just an index. It’s a signal.
-                    It doesn’t track coins — it tracks conviction.
-                    Scroll through the data,  and see if you can piece together what really happened. <br /> <br />
-                    This might be your last sync with the index Solana tried to forget.
+                    You’ve just opened a hidden chamber of capital. <br /> <br />
+                    CHINEX isn’t just a coin — it’s a current.
+                    It doesn’t track prices — it moves flows.
+                    Follow the 龙 (dragon) across the ledgers, Decode the 金流 (gold flow) before dawn. <br /> <br />
+                    This might be your last sync with the Red Tide.
                   </p>
 
                   {/* ASCII Art Box */}
@@ -243,9 +243,9 @@ export default function Home() {
                 </div>
                 <div className="mt-6 space-y-4">
                   {[
-                    { date: "06/10/2025", title: "🔺NSDΞX surpasses 9999 as traders enter “fully delusional” phase, analysts celebrate by minting JPEGs" },
-                    { date: "06/09/2025", title: "📉Volatility Angel spotted mid-dump on Solana. Market halts for 6 blocks in silence." },
-                    { date: "06/08/2025", title: '🌕New prophecy leaked: “Ξ will align with 42069 before next CPI print.” Federal Reserve refuses to comment.' },
+                    { date: "10/10/2025", title: "🐉 CHINEX6900 breaks the Dragon Gate. Liquidity surges as 红潮 (Red Tide) sweeps Asian sessions; on-chain yuan pairs hit ATH." },
+                    { date: "10/09/2025", title: "🏮 Lantern Pattern detected on CHINEX/¥. Six candles pause at the Jade Threshold; market makers whisper “balance of Qi restored." },
+                    { date: "10/08/2025", title: '💴 State of Flow memo leaked: “¥-rails will align with CHINEX nodes before next CPI print.” Western desks decline to comment.' },
                   ].map((update, idx) => (
                     <div key={idx} className="flex gap-2">
                       <div className="text-[#ff99cc] text-xs">[{update.date}]</div>
@@ -289,10 +289,10 @@ export default function Home() {
                 <div className="mt-6 space-y-4">
                   <div className="bg-[#000044] border border-[#3366cc] p-3 text-[#99ccff] relative">
                     <p>
-                      I'm just a fucking dude on the trenches with a soft spot for financial myths and broken charts.
-                      SPX6900 showed us that even indexes can lie. NSDΞX? It dreams in candlesticks.
+                      我只是红潮巷子里的一个交易员, 对王朝神话和破碎账本情有独钟.
+                      CHINEX6900 证明了连指数也会向资金流低头. NSDEX？ 它在玉色K线里做梦.
                     </p>
-                    <p className="mt-2">Ξ Tune in to the echoes of market depth.</p>
+                    <p className="mt-2">Ξ 调频，聆听流动性深度的回声</p>
 
                     {/* Decorative corner elements */}
                     <div className="absolute top-1 left-1 h-4 w-4 border-t border-l border-[#99ccff]"></div>
@@ -408,23 +408,23 @@ export default function Home() {
             <source src="./memes/8.mp4" />
           </video>
           <div className="bg-[#000033] border-2 border-[#3366cc] rounded-md relative overflow-hidden">
-            <h2 className="text-sm bg-gradient-to-r from-[#000066] to-[#0033cc] p-3">Elon Musk Crashes FOMC Meeting with a Green Candle NFT</h2>
+            <h2 className="text-sm bg-gradient-to-r from-[#000066] to-[#0033cc] p-3">CHINEX Envoys Interrupt PBOC Briefing with a Jade Candle NFT</h2>
             <div className="p-3 text-xs">
               <p>
-                During a closed-door Federal Reserve meeting, Elon Musk burst in holding a golden USB stick and shouted:
-                "This is the ultimate candle!" <br /> <br />
-                The USB contained an animated NFT of a green candlestick extending infinitely, accompanied by a looping lo-fi Dogecoin beat. <br /> <br />
-                Jerome Powell called for an emergency recess. Witnesses claim he was heard whispering, "This is… pure financial art." <br /> <br />
-                The NFT is now trading on Solana for 69.69 $NSDΞX.
+                During a closed-door liquidity update in Beijing, two CHINEX envoys entered carrying a golden ledger drive and declared:
+                "This is the Jade Candle—prosperity, encoded." <br /> <br />
+                Inside the drive was an animated green candlestick rising without end, looped to a silk-soft guzheng beat and stamped with the Dragon Seal. <br /> <br />
+                Officials paused the session. Witnesses say a senior economist whispered, “这……是纯粹的金融艺术.” “This… is pure financial art.” <br /> <br />
+                The NFT is now live on Solana as Jade Candle #6900, price-pegged in ¥-rails / CHINEX.
               </p>
             </div>
             <img src="./news/1.png" alt="" />
           </div>
           <div className="bg-[#000033] border-2 border-[#3366cc] rounded-md relative overflow-hidden">
-            <h2 className="text-sm bg-gradient-to-r from-[#000066] to-[#0033cc] p-3">New Metric Shakes Wall Street: “Faith-to-Asset Ratio”</h2>
+            <h2 className="text-sm bg-gradient-to-r from-[#000066] to-[#0033cc] p-3">New Metric Shakes the Red Tide: “Qi-to-Asset Ratio”</h2>
             <div className="p-3 text-xs">
               <p>
-                A group of alternative analysts has launched the first-ever “Faith-to-Asset Ratio”, a metric that measures how much blind belief is holding up the price of an asset.
+                A cohort of CHINEX quants has launched the first “Qi-to-Asset Ratio (QAR)” — a metric that measures how much collective 信仰 (conviction) and 气 (flow) are propping up an asset’s price.
               </p>
             </div>
             <img src="./news/2.png" alt="" />
